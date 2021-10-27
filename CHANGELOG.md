@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix image link in README.
 
+### Changed
+
+- Include Visual Studio Code Workspace in repository.
+
 ## 1.0.4 - 27/10/2021
 
 Publishing test with no changes.
