@@ -6,7 +6,7 @@ Syntax highlight support for [Sieve mail filtering language](https://en.wikipedi
 
 ## Example
 
-![Sieve syntax highlight support example](https://raw.githubusercontent.com/adzero/vscode-sievehighlight/master/images/readme/sieve-sample-file.png)
+![Sieve syntax highlight support example](master/images/readme/sieve-sample-file.png)
 
 ## Release Notes
 
